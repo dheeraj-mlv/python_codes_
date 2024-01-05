@@ -5,6 +5,7 @@ def gameWin(comp, you):
     # If two values are equal, declare a tie!
     if comp == you:
         return None
+    #added nothing 
 
     # Check for all possibilities when computer chose s
     elif comp == 's':
